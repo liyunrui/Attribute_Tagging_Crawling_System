@@ -1,0 +1,554 @@
+{
+  "Jenis Lengan": {
+    "Tanpa Lengan": [
+      "Tanpa Lengan"
+    ],
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ],
+    "Lengan Panjang": [
+      "Lengan Panjang"
+    ],
+    "Lengan Pendek": [
+      "Lengan Pendek"
+    ],
+    "Lengan 3/4": [
+      "Lengan 3/4"
+    ]
+  },
+  "Merek": {
+    "ACVIP": [
+      "ACVIP"
+    ],
+    "Wonderful Power": [
+      "Wonderful Power"
+    ],
+    "unbrand": [
+      "unbrand"
+    ],
+    "Gamiss": [
+      "Gamiss"
+    ],
+    "zanzea": [
+      "zanzea"
+    ],
+    "DIY": [
+      "DIY"
+    ],
+    "ELLIPSES.INC": [
+      "ELLIPSES.INC"
+    ],
+    "Custom T-Shirt": [
+      "Custom T-Shirt"
+    ],
+    "Import": [
+      "Import"
+    ],
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ],
+    "Fantastic Flower": [
+      "Fantastic Flower"
+    ],
+    "Unbranded": [
+      "Unbranded"
+    ],
+    "Lunar Valley": [
+      "Lunar Valley"
+    ],
+    "No Brand": [
+      "No Brand"
+    ],
+    "Hequ": [
+      "Hequ"
+    ],
+    "AIUEO": [
+      "AIUEO"
+    ],
+    "zeagoo": [
+      "zeagoo"
+    ],
+    "Amart": [
+      "Amart"
+    ],
+    "Blue lans": [
+      "Blue lans"
+    ],
+    "Ashley May": [
+      "Ashley May"
+    ],
+    "GESTORE": [
+      "GESTORE"
+    ],
+    "T-shirt": [
+      "T-shirt"
+    ],
+    "Phoenix B2C": [
+      "Phoenix B2C"
+    ],
+    "other": [
+      "other"
+    ],
+    "new brand": [
+      "new brand"
+    ],
+    "OEM": [
+      "OEM"
+    ],
+    "Yutaka": [
+      "Yutaka"
+    ],
+    "Multiwarna": [
+      "Multiwarna"
+    ],
+    "URBAN PREVIEW": [
+      "URBAN PREVIEW"
+    ],
+    "YOINS": [
+      "YOINS"
+    ]
+  },
+  "Kelompok Warna": {
+    "Hijau Army": [
+      "Hijau Army"
+    ],
+    "Hijau Muda": [
+      "Hijau Muda"
+    ],
+    "Cokelat": [
+      "Cokelat"
+    ],
+    "Biru": [
+      "Biru"
+    ],
+    "Ungu": [
+      "Ungu"
+    ],
+    "Kuning": [
+      "Kuning"
+    ],
+    "Hitam": [
+      "Hitam"
+    ],
+    "Biru Muda": [
+      "Biru Muda"
+    ],
+    "Warna Burgundi": [
+      "Warna Burgundi"
+    ],
+    "Warna Merah Cabai": [
+      "Warna Merah Cabai"
+    ],
+    "Jeruk": [
+      "Jeruk"
+    ],
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ],
+    "Merah": [
+      "Merah"
+    ],
+    "Abu-Abu": [
+      "Abu-Abu"
+    ],
+    "Kopi": [
+      "Kopi"
+    ],
+    "Putih": [
+      "Putih"
+    ],
+    "Merah Semangka": [
+      "Merah Semangka"
+    ],
+    "Biru Tua": [
+      "Biru Tua"
+    ],
+    "Hijau": [
+      "Hijau"
+    ],
+    "Mawar": [
+      "Mawar"
+    ],
+    "Biru Dongker": [
+      "Biru Dongker"
+    ],
+    "Aprikot": [
+      "Aprikot"
+    ],
+    "Netral": [
+      "Netral"
+    ],
+    "Warna Khaki": [
+      "Warna Khaki"
+    ],
+    "Merah Muda": [
+      "Merah Muda"
+    ],
+    "Multiwarna": [
+      "Multiwarna"
+    ],
+    "Krem": [
+      "Krem"
+    ],
+    "Abu-abu Muda": [
+      "Abu-abu Muda"
+    ],
+    "Floral": [
+      "Floral"
+    ]
+  },
+  "Barang Berbahaya": {
+    "Mudah terbakar": [
+      "Mudah terbakar"
+    ],
+    "Liquid": [
+      "Liquid"
+    ]
+  },
+  "Bahan Pakaian": {
+    "Nilon": [
+      "Nilon"
+    ],
+    "modal": [
+      "modal"
+    ],
+    "Poli-Katun": [
+      "Poli-Katun"
+    ],
+    "Renda": [
+      "Renda"
+    ],
+    "Leather": [
+      "Leather"
+    ],
+    "Viskos": [
+      "Viskos"
+    ],
+    "Rayon": [
+      "Rayon"
+    ],
+    "Linen": [
+      "Linen"
+    ],
+    "Poliester": [
+      "Poliester"
+    ],
+    "Lycra": [
+      "Lycra"
+    ],
+    "Kain Carom": [
+      "Kain Carom"
+    ],
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ],
+    "Asimetrik": [
+      "Asimetrik"
+    ],
+    "Banaras Silk": [
+      "Banaras Silk"
+    ],
+    "Jersey": [
+      "Jersey"
+    ],
+    "Katun Stretch": [
+      "Katun Stretch"
+    ],
+    "Kain Satin": [
+      "Kain Satin"
+    ],
+    "Wol": [
+      "Wol"
+    ],
+    "Jaring-jaring": [
+      "Jaring-jaring"
+    ],
+    "Material Lainnya": [
+      "Material Lainnya"
+    ],
+    "Sifon": [
+      "Sifon"
+    ],
+    "LYCRA": [
+      "LYCRA"
+    ],
+    "Wol Arkrilik": [
+      "Wol Arkrilik"
+    ],
+    "Beludru": [
+      "Beludru"
+    ],
+    "Jaring": [
+      "Jaring"
+    ],
+    "Silk": [
+      "Silk"
+    ],
+    "Kawat": [
+      "Kawat"
+    ],
+    "Cotton": [
+      "Cotton"
+    ]
+  },
+  "Motif / Detail": {
+    "Motif Belah Ketupat": [
+      "Motif Belah Ketupat"
+    ],
+    "Polos": [
+      "Polos"
+    ],
+    "Graphic": [
+      "Graphic"
+    ],
+    "Pola Sequence": [
+      "Pola Sequence"
+    ],
+    "Kashmiri Embroidery": [
+      "Kashmiri Embroidery"
+    ],
+    "Patchwork": [
+      "Patchwork"
+    ],
+    "herringbone": [
+      "herringbone"
+    ],
+    "Aari Embroidery": [
+      "Aari Embroidery"
+    ],
+    "Motif Joint": [
+      "Motif Joint"
+    ],
+    "Camouflage": [
+      "Camouflage"
+    ],
+    "Kartun": [
+      "Kartun"
+    ],
+    "Motif Polka Dot": [
+      "Motif Polka Dot"
+    ],
+    "Plaid": [
+      "Plaid"
+    ],
+    "Brokat": [
+      "Brokat"
+    ],
+    "Print": [
+      "Print"
+    ],
+    "Motif Houndstooth": [
+      "Motif Houndstooth"
+    ],
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ],
+    "Kantha Embroidery": [
+      "Kantha Embroidery"
+    ],
+    "Huruf": [
+      "Huruf"
+    ],
+    "Animal Print": [
+      "Animal Print"
+    ],
+    "Paisley": [
+      "Paisley"
+    ],
+    "Chikan Embroidery": [
+      "Chikan Embroidery"
+    ],
+    "Embroidery, Sequin and/or Foil Mirror Work": [
+      "Embroidery, Sequin and/or Foil Mirror Work"
+    ],
+    "Simpul": [
+      "Simpul"
+    ],
+    "Motif Gelombang": [
+      "Motif Gelombang"
+    ],
+    "Gingham": [
+      "Gingham"
+    ],
+    "Strip": [
+      "Strip"
+    ],
+    "Floral": [
+      "Floral"
+    ],
+    "Check": [
+      "Check"
+    ],
+    "Herringbone": [
+      "Herringbone"
+    ]
+  },
+  "Tren Fashion Wanita": {
+    "Dasar": [
+      "Dasar"
+    ],
+    "Street Style": [
+      "Street Style"
+    ],
+    "Pestar": [
+      "Pestar"
+    ],
+    "Tropikal": [
+      "Tropikal"
+    ],
+    "Athleisure": [
+      "Athleisure"
+    ],
+    "Preppy / Heritage": [
+      "Preppy / Heritage", "Heritage", "Preppy"
+    ],
+    "Rock and Roll": [
+      "Rock and Roll", "rock & roll", "rock n roll"
+    ],
+    "Baju Kerja": [
+      "Baju Kerja"
+    ],
+    "Nautical": [
+      "Nautical"
+    ],
+    "Military": [
+      "Military"
+    ],
+    "Korean": [
+      "Korean"
+    ],
+    "Retro & Vintage": [
+      "Retro & Vintage", "retro", "vintage"
+    ],
+    "Minimalis": [
+      "Minimalis"
+    ],
+    "Sexy": [
+      "Sexy"
+    ],
+    "Bohemian": [
+      "Bohemian"
+    ]
+  },
+  "Jenis Garansi": {
+    "Tidak Ada Garansi": [
+      "Tidak Ada Garansi"
+    ],
+    "Garansi Seller": [
+      "Garansi Seller"
+    ],
+    "Garansi Lokal": [
+      "Garansi Lokal"
+    ],
+    "Garansi Resmi Distributor Lokal": [
+      "Garansi Resmi Distributor Lokal"
+    ],
+    "Garansi International": [
+      "Garansi International"
+    ]
+  },
+  "Variasi": {
+    "36": [
+      "36"
+    ],
+    "40": [
+      "40"
+    ]
+  },
+  "Kategori yang Berhubungan": {
+    "T-Shirt Wanita": [
+      "T-Shirt Wanita"
+    ]
+  },
+  "Layanan": {
+    "Bayar di Tempat": [
+      "Bayar di Tempat"
+    ],
+    "Gratis Ongkir": [
+      "Gratis Ongkir"
+    ],
+    "Koleksi Taobao": [
+      "Koleksi Taobao"
+    ],
+    "Disediakan oleh Lazada": [
+      "Disediakan oleh Lazada"
+    ]
+  },
+  "Jenis Kerah": {
+    "SlashSlash": [
+      "SlashSlash"
+    ],
+    "Bertudung": [
+      "Bertudung"
+    ],
+    "Mandarin collar": [
+      "Mandarin collar"
+    ],
+    "Kerah Peter Pan": [
+      "Kerah Peter Pan"
+    ],
+    "Scoop Neck": [
+      "Scoop Neck"
+    ],
+    "Kerah Pillow": [
+      "Kerah Pillow"
+    ],
+    "Leher Tinggi": [
+      "Leher Tinggi"
+    ],
+    "Dengan Kancing Kerah": [
+      "Dengan Kancing Kerah"
+    ],
+    "Kerah Lipat": [
+      "Kerah Lipat"
+    ],
+    "Kerah-V": [
+      "Kerah-V"
+    ],
+    "Shirt Collar": [
+      "Shirt Collar"
+    ],
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ],
+    "Kerah Notch": [
+      "Kerah Notch"
+    ],
+    "Lapel": [
+      "Lapel"
+    ],
+    "Kerah Syal": [
+      "Kerah Syal"
+    ],
+    "Mandarin Collar": [
+      "Mandarin Collar"
+    ],
+    "Kerah Pita": [
+      "Kerah Pita"
+    ],
+    "Leher O": [
+      "Leher O"
+    ],
+    "Asimetrik": [
+      "Asimetrik"
+    ],
+    "Kerah Polo": [
+      "Kerah Polo"
+    ],
+    "Kerah Crew": [
+      "Kerah Crew"
+    ],
+    "Shirt collar": [
+      "Shirt collar"
+    ],
+    "Tanpa Bahu": [
+      "Tanpa Bahu"
+    ],
+    "Kerah Boat Neck": [
+      "Kerah Boat Neck"
+    ],
+    "Kerah Kotak": [
+      "Kerah Kotak"
+    ]
+  }
+}

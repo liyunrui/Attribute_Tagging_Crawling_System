@@ -1,0 +1,274 @@
+{
+  "Kategori yang Berhubungan": {
+    "Dress Wanita": [
+      "Dress Wanita"
+    ]
+  },
+  "Merek": {
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ],
+    "OEM": [
+      "OEM"
+    ],
+    "zanzea": [
+      "zanzea"
+    ],
+    "No Brand": [
+      "No Brand"
+    ],
+    "other": [
+      "other"
+    ],
+    "Multiwarna": [
+      "Multiwarna"
+    ],
+    "unbrand": [
+      "unbrand"
+    ],
+    "YOINS": [
+      "YOINS"
+    ]
+  },
+  "Layanan": {
+    "Koleksi Taobao": [
+      "Koleksi Taobao"
+    ],
+    "Cicilan": [
+      "Cicilan"
+    ],
+    "Bayar di Tempat": [
+      "Bayar di Tempat"
+    ],
+    "Disediakan oleh Lazada": [
+      "Disediakan oleh Lazada"
+    ],
+    "Gratis Ongkir": [
+      "Gratis Ongkir"
+    ]
+  },
+  "Variasi": {
+    "XXS": [
+      "XXS"
+    ],
+    "XS": [
+      "XS"
+    ],
+    "S": [
+      "S"
+    ],
+    "M": [
+      "M"
+    ],
+    "L": [
+      "L"
+    ],
+    "XL": [
+      "XL"
+    ],
+    "XXL": [
+      "XXL"
+    ]
+  },
+  "Kelompok Warna": {
+    "Hitam": [
+      "Hitam"
+    ],
+    "Merah": [
+      "Merah"
+    ],
+    "Biru": [
+      "Biru"
+    ],
+    "Putih": [
+      "Putih"
+    ],
+    "Hijau": [
+      "Hijau"
+    ],
+    "Merah Muda": [
+      "Merah Muda"
+    ],
+    "Abu-Abu": [
+      "Abu-Abu"
+    ],
+    "Biru Dongker": [
+      "Biru Dongker"
+    ]
+  },
+  "Jenis Garansi": {
+    "Tidak Ada Garansi": [
+      "Tidak Ada Garansi"
+    ],
+    "Garansi Seller": [
+      "Garansi Seller"
+    ],
+    "Garansi Lokal": [
+      "Garansi Lokal"
+    ],
+    "Garansi Supplier": [
+      "Garansi Supplier"
+    ],
+    "Garansi International": [
+      "Garansi International"
+    ]
+  },
+  "Tipe Gaun": {
+    "Gaun Bentuk A": [
+      "Gaun Bentuk A"
+    ],
+    "Gaun Bodycon": [
+      "Gaun Bodycon"
+    ],
+    "Gaun Pensil": [
+      "Gaun Pensil"
+    ],
+    "Babydoll/Gaun Smock": [
+      "Babydoll/Gaun Smock"
+    ],
+    "Shift Dress": [
+      "Shift Dress"
+    ],
+    "Gaun Melambai": [
+      "Gaun Melambai"
+    ],
+    "Gaun Asimetris": [
+      "Gaun Asimetris"
+    ],
+    "Tunik": [
+      "Tunik"
+    ]
+  },
+  "Bahan Pakaian": {
+    "Poliester": [
+      "Poliester"
+    ],
+    "Cotton": [
+      "Cotton"
+    ],
+    "Material Lainnya": [
+      "Material Lainnya"
+    ],
+    "Sifon": [
+      "Sifon"
+    ],
+    "Renda": [
+      "Renda"
+    ],
+    "Linen": [
+      "Linen"
+    ],
+    "Poli-Katun": [
+      "Poli-Katun"
+    ],
+    "Silk": [
+      "Silk"
+    ]
+  },
+  "Motif / Detail": {
+    "Polos": [
+      "Polos"
+    ],
+    "Floral": [
+      "Floral"
+    ],
+    "Strip": [
+      "Strip"
+    ],
+    "Plaid": [
+      "Plaid"
+    ],
+    "Patchwork": [
+      "Patchwork"
+    ],
+    "Huruf": [
+      "Huruf"
+    ],
+    "Simpul": [
+      "Simpul"
+    ],
+    "Graphic": [
+      "Graphic"
+    ]
+  },
+  "Panjang Gaun": {
+    "Mini": [
+      "Mini"
+    ],
+    "Maksi": [
+      "Maksi"
+    ],
+    "Selutut": [
+      "Selutut"
+    ],
+    "Di Atas Lutut": [
+      "Di Atas Lutut"
+    ],
+    "Panjang": [
+      "Panjang"
+    ],
+    "Midi": [
+      "Midi"
+    ],
+    "Mata Kaki": [
+      "Mata Kaki"
+    ],
+    "Di Bawah Lutut": [
+      "Di Bawah Lutut"
+    ]
+  },
+  "Jenis Lengan": {
+    "Tanpa Lengan": [
+      "Tanpa Lengan"
+    ],
+    "Lengan Panjang": [
+      "Lengan Panjang"
+    ],
+    "Lengan Pendek": [
+      "Lengan Pendek"
+    ],
+    "Lengan 3/4": [
+      "Lengan 3/4"
+    ],
+    "Tidak Spesifik": [
+      "Tidak Spesifik"
+    ]
+  },
+  "Barang Berbahaya": {
+    "Mudah terbakar": [
+      "Mudah terbakar"
+    ],
+    "Liquid": [
+      "Liquid"
+    ],
+    "Baterai": [
+      "Baterai"
+    ]
+  },
+  "Jenis Kerah / Leher Baju": {
+    "Leher O": [
+      "Leher O"
+    ],
+    "Kerah-V": [
+      "Kerah-V"
+    ],
+    "Kerah Crew": [
+      "Kerah Crew"
+    ],
+    "Tanpa Bahu": [
+      "Tanpa Bahu"
+    ],
+    "Shirt collar": [
+      "Shirt collar"
+    ],
+    "Bertudung": [
+      "Bertudung"
+    ],
+    "Kerah Lipat": [
+      "Kerah Lipat"
+    ],
+    "Kerah Kotak": [
+      "Kerah Kotak"
+    ]
+  }
+}
