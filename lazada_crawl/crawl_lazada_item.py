@@ -8,7 +8,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 
 
-def parse_current_page(current_driver, attribute_name, fp):
+def parse_current_page(page_num, current_driver, attribute_name, fp):
     page_source = current_driver.page_source
     soup = BeautifulSoup(page_source)
     try:
@@ -24,7 +24,8 @@ def parse_current_page(current_driver, attribute_name, fp):
             item_title = item['name']
             image_url = item['image']
             item_url = item['url']
-            res = attribute_name + '||' + item_title + '||' + item_url + '||' + image_url
+            price = item['offers']['price'] + item['offers']['priceCurrency']
+            res = attribute_name + '||' + str(page_num) + '||' + item_title + '||' + item_url + '||' + image_url + '||' + price
 
             fp.write(res + '\n')
             fp.flush()
@@ -112,7 +113,7 @@ for key in attribute_types:
                     continue
                 sleep(3)
 
-            parse_num = parse_current_page(driver, attr, attribute_file)
+            parse_num = parse_current_page(i, driver, attr, attribute_file)
             total_num += parse_num
             print ('\r ' + str(total_num), end=" ")
 
