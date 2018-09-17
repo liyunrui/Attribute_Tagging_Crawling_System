@@ -20,7 +20,7 @@ There are three steps in our logics. Please refer to the following flowchart.
 *-the word inside parentheses is an example for understanding the flowchart.*
 *-v1(Samsung) is a one specific attribute*
 
-Please see my [code](https://github.com/liyunrui/Product_Keywords_Extraction/tree/master/py_feature) for more details.
+Please see my [code](https://github.com/liyunrui/Attribute_Tagging_Crawling_System/tree/master/src) for more details.
 
 
 How to run
@@ -28,7 +28,7 @@ How to run
 The below is an example to show how to crawl the sku of face in Lazada. We consider our attribute as brand as example. 
 
 1.Get attribute trees.
-python3 get_attribute_trees.py -c face==
+==python3 get_attribute_trees.py -c face==
 2.Get each attribute-level url
 ==python3 get_attribute_url.py -c face==
 3.Extract SKU info given 
