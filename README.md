@@ -19,6 +19,7 @@ There are three steps in our logics. Please refer to the following flowchart.
 ![](https://i.imgur.com/OAinf70.png)
 
 *-the word inside parentheses is an example for understanding the flowchart.*
+
 *-v1(Samsung) is a one specific attribute*
 
 Please see my [code](https://github.com/liyunrui/Attribute_Tagging_Crawling_System/tree/master/src) for more details.
