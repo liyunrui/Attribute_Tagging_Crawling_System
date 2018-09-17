@@ -17,6 +17,7 @@ Crawling logics
 There are three steps in our logics. Please refer to the following flowchart.
 
 ![](https://i.imgur.com/OAinf70.png)
+
 *-the word inside parentheses is an example for understanding the flowchart.*
 *-v1(Samsung) is a one specific attribute*
 
