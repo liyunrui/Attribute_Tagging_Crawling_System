@@ -28,11 +28,16 @@ How to run
 The below is an example to show how to crawl the sku of face in Lazada. We consider our attribute as brand as example. 
 
 1.Get attribute trees.
-==python3 get_attribute_trees.py -c face==
+
+== python3 get_attribute_trees.py -c fac e ==
+
 2.Get each attribute-level url
-==python3 get_attribute_url.py -c face==
+
+== python3 get_attribute_url.py -c face ==
+
 3.Extract SKU info given 
-==python3 extract_info.py -c face -i url_path/face_ID_attribute_url.json -t "Merek"==
+
+== python3 extract_info.py -c face -i url_path/face_ID_attribute_url.json -t "Merek" ==
 
 **Notice: The following command should be step-by-step executed in the terminal.**
 
