@@ -1,0 +1,468 @@
+{
+  "Brand": {
+    "Samsung": [
+      "Samsung"
+    ],
+    "Xiaomi": [
+      "Xiaomi"
+    ],
+    "Multiwarna": [
+      "Multiwarna"
+    ],
+    "Vivo": [
+      "Vivo"
+    ],
+    "OPPO": [
+      "OPPO"
+    ],
+    "ASUS": [
+      "ASUS"
+    ],
+    "Nokia": [
+      "Nokia"
+    ],
+    "Apple": [
+      "Apple", "Iphone"
+    ],
+    "Huawei": [
+      "Huawei"
+    ],
+    "OEM": [
+      "OEM"
+    ],
+    "Advan": [
+      "Advan"
+    ],
+    "Sony": [
+      "Sony"
+    ],
+    "Evercoss": [
+      "Evercoss"
+    ],
+    "LG": [
+      "LG"
+    ],
+    "Lenovo": [
+      "Lenovo"
+    ],
+    "iCherry": [
+      "iCherry"
+    ],
+    "General": [
+      "General"
+    ],
+    "Mito": [
+      "Mito"
+    ],
+    "Motorola": [
+      "Motorola"
+    ],
+    "Not specific": [
+      "Tidak Spesifik", "Not specific"
+    ],
+    "Blackberry": [
+      "Blackberry"
+    ],
+    "Polytron": [
+      "Polytron"
+    ],
+    "Meizu": [
+      "Meizu"
+    ],
+    "HTC": [
+      "HTC"
+    ],
+    "brandcode": [
+      "brandcode"
+    ],
+    "DOOGEE": [
+      "DOOGEE"
+    ],
+    "OUKITEL": [
+      "OUKITEL"
+    ],
+    "Smartfren": [
+      "Smartfren"
+    ],
+    "Blackview": [
+      "Blackview"
+    ],
+    "Ulefone": [
+      "Ulefone"
+    ]
+  },
+  "Storage Capacity": {
+    "32GB": [
+      "32GB"
+    ],
+    "64GB": [
+      "64GB"
+    ],
+    "16GB": [
+      "16GB"
+    ],
+    "Not specific": [
+      "Tidak Spesifik","Not specific"
+    ],
+    "8GB": [
+      "8GB"
+    ],
+    "128GB": [
+      "128GB"
+    ],
+    "4GB": [
+      "4GB"
+    ],
+    "No Storage": [
+      "Tanpa Penyimpanan","No Storage"
+    ],
+    "Below 1GB": [
+      "Di Bawah 1GB","Below 1GB"
+    ],
+    "32MB": [
+      "32MB"
+    ],
+    "256GB": [
+      "256GB"
+    ],
+    "4MB": [
+      "4MB"
+    ],
+    "1GB": [
+      "1GB"
+    ],
+    "2GB": [
+      "2GB"
+    ],
+    "16MB": [
+      "16MB"
+    ],
+    "512MB": [
+      "512MB"
+    ],
+    "8MB": [
+      "8MB"
+    ],
+    "10MB": [
+      "10MB"
+    ],
+    "3GB": [
+      "3GB"
+    ],
+    "1.5GB": [
+      "1.5GB"
+    ],
+    "64MB": [
+      "64MB"
+    ],
+    "256MB": [
+      "256MB"
+    ],
+    "30MB": [
+      "30MB"
+    ],
+    "128MB": [
+      "128MB"
+    ],
+    "512GB": [
+      "512GB"
+    ],
+    "10GB": [
+      "10GB"
+    ],
+    "6GB": [
+      "6GB"
+    ],
+    "115MB": [
+      "115MB"
+    ],
+    "5MB": [
+      "5MB"
+    ]
+  },
+  "Color Family": {
+    "Black": [
+      "Hitam","Black"
+    ],
+    "Gold": [
+      "Emas","Gold"
+    ],
+    "White": [
+      "Putih","White"
+    ],
+    "Blue": [
+      "Biru","Blue"
+    ],
+    "neutral": [
+      "Netral","neutral"
+    ],
+    "Red": [
+      "Merah","Red"
+    ],
+    "Gray": [
+      "Abu-Abu","Gray"
+    ],
+    "Silver": [
+      "Perak","Silver"
+    ],
+    "Multicolor": [
+      "Multiwarna","Multicolor"
+    ],
+    "Pink": [
+      "Merah Muda","Pink"
+    ],
+    "Purple": [
+      "Ungu","Purple"
+    ],
+    "Rose Gold": [
+      "Emas Rose","Rose Gold"
+    ],
+    "Rose": [
+      "Mawar","Rose"
+    ],
+    "Green": [
+      "Hijau","Green"
+    ],
+    "Yellow": [
+      "Kuning","Yellow"
+    ],
+    "Not specific": [
+      "Tidak Spesifik","Not specific"
+    ],
+    "Orange": [
+      "Jeruk","Orange"
+    ],
+    "Brown": [
+      "Kopi","Cokelat","Brown"
+    ],
+    "Light Blue": [
+      "Biru Muda","Light Blue"
+    ],
+    "Deep Black": [
+      "Deep Black"
+    ],
+    "Deep Blue": [
+      "Biru Tua","Deep Blue"
+    ],
+    "Light Grey": [
+      "Abu-abu Muda","Light Grey"
+    ],
+    "Dark Grey": [
+      "Abu-Abu Tua","Dark Grey"
+    ],
+    "Clear": [
+      "Bening","Clear"
+    ],
+    "Army Green": [
+      "Hijau Army","Army Green"
+    ],
+    "Navy Blue": [
+      "Biru Dongker","Navy Blue"
+    ],
+    "Apricot": [
+      "Aprikot","Apricot"
+    ],
+    "Color Off White": [
+      "Warna Off White","Color Off White"
+    ]
+  },
+  "Network Connections": {
+    "4G": [
+      "4G"
+    ],
+    "3G": [
+      "3G"
+    ],
+    "2G": [
+      "2G"
+    ],
+    "3.5G - HSDPA": [
+      "3.5G - HSDPA"
+    ]
+  },
+  "Warranty Period": {
+    "1 year": [
+      "1 Tahun","1 year"
+    ],
+    "1 month": [
+      "1 Bulan","1 month"
+    ],
+    "2 month": [
+      "2 Bulan", "2 months"
+    ],
+    "6 Months": [
+      "6 Bulan", "6 Months"
+    ],
+    "2 Years": [
+      "2 Tahun","2 Years"
+    ],
+    "3 months": [
+      "3 Bulan","3 months"
+    ],
+    "3 years": [
+      "3 Tahun","3 years"
+    ],
+    "11 months": [
+      "11 Bulan","11 months"
+    ],
+    "5 years": [
+      "5 Tahun","5 years"
+    ],
+    "10 months": [
+      "10 Bulan","10 months"
+    ],
+    "5 months": [
+      "5 Bulan", "5 months"
+    ],
+    "10 years": [
+      "10 Tahun","10 years"
+    ],
+    "18 months": [
+      "18 Bulan", "18 months"
+    ],
+    "15 years": [
+      "15 Tahun","15 years"
+    ],
+    "4 months": [
+      "4 Bulan", "4 months"
+    ],
+    "7 months": [
+      "7 Bulan", "7 months"
+    ]
+  },
+  "Phone Screen Size": {
+    "4.6 to 5 inches": [
+      "4.6 hingga 5 Inci", "4.6 to 5 inches"
+    ],
+    "5.1 to 5.5 inches": [
+      "5.1 hingga 5.5 Inci", "5.1 to 5.5 inches"
+    ],
+    "More than 5.6 inches": [
+      "Lebih dari 5.6 Inci", "More than 5.6 inches"
+    ],
+    "less than 3.5 inches": [
+      "kurang dari 3.5 Inci", "less than 3.5 inches"
+    ],
+    "3.6 to 4 Inches": [
+      "3.6 hingga 4 Inci", "3.6 to 4 Inches"
+    ],
+    "4.1 to 4.5 Inches": [
+      "4.1 hingga 4.5 Inci", "4.1 to 4.5 Inches"
+    ]
+  },
+  "Operating System": {
+    "Android": [
+      "Android"
+    ],
+    "Android 6.0 Marshmallow": [
+      "Android 6.0 Marshmallow"
+    ],
+    "Android 7.0 Nougat": [
+      "Android 7.0 Nougat"
+    ],
+    "iOS": [
+      "iOS"
+    ],
+    "Other": [
+      "Other"
+    ],
+    "Android 5.1 Lollipop": [
+      "Android 5.1 Lollipop"
+    ],
+    "android os": [
+      "android os"
+    ],
+    "iOS 10": [
+      "iOS 10"
+    ],
+    "Android 5.0 Lollipop": [
+      "Android 5.0 Lollipop"
+    ],
+    "No OS": [
+      "No OS"
+    ],
+    "Android 4.4 KitKat": [
+      "Android 4.4 KitKat"
+    ],
+    "iOS 9": [
+      "iOS 9"
+    ],
+    "No info": [
+      "No info"
+    ],
+    "Windows": [
+      "Windows"
+    ],
+    "Others": [
+      "Others"
+    ],
+    "Blackberry OS": [
+      "Blackberry OS"
+    ],
+    "Nokia OS": [
+      "Nokia OS"
+    ],
+    "Symbian": [
+      "Symbian"
+    ],
+    "Android 4.4.4 KitKat": [
+      "Android 4.4.4 KitKat"
+    ],
+    "Android 4.4 (KitKat)": [
+      "Android 4.4 (KitKat)"
+    ],
+    "Android 8.1 Oreo": [
+      "Android 8.1 Oreo"
+    ],
+    "Android 4": [
+      "Android 4"
+    ],
+    "Android OS 4.4 Kitkat": [
+      "Android OS 4.4 Kitkat"
+    ],
+    "Samsung OS": [
+      "Samsung OS"
+    ],
+    "Nokia OS Series 30+": [
+      "Nokia OS Series 30+"
+    ],
+    "Windows 8.1": [
+      "Windows 8.1"
+    ],
+    "Android 4.4.2 Kitkat": [
+      "Android 4.4.2 Kitkat"
+    ],
+    "Nokia Asha": [
+      "Nokia Asha"
+    ],
+    "Windows 7": [
+      "Windows 7"
+    ]
+  },
+  "Memori RAM": {
+    "2GB": [
+      "2GB"
+    ],
+    "3GB": [
+      "3GB"
+    ],
+    "4GB": [
+      "4GB"
+    ],
+    "1GB": [
+      "1GB"
+    ],
+    "6GB": [
+      "6GB"
+    ],
+    "512MB & Kurang": [
+      "512MB & Kurang"
+    ],
+    "8GB": [
+      "8GB"
+    ],
+    "16GB": [
+      "16GB"
+    ]
+  }
+}
